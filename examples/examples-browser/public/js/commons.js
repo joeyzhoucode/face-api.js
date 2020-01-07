@@ -91,6 +91,10 @@ function renderNavBar(navbarId, exampleUri) {
     {
       uri: 'batch_face_recognition',
       name: 'Batch Face Recognition'
+    },
+    {
+      uri: 'lip_net_transcription',
+      name: 'Lip Net Transcription'
     }
   ]
 
